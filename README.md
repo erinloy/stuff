@@ -3,6 +3,9 @@ Some stuff that I found.
 
 # Unity
 https://github.com/MidLevel/MLAPI.Cryptography
+https://adamramberg.github.io/marvelous/
+https://adamramberg.github.io/unity-atoms/
+https://github.com/DanielEverland/ScriptableObject-Architecture
 
 # Unity UPM
 https://openupm.com/
