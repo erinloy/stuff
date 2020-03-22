@@ -9,6 +9,9 @@ https://github.com/DanielEverland/ScriptableObject-Architecture
 
 NuGet for Unity: https://github.com/GlitchEnzo/NuGetForUnity
 
+https://github.com/Cysharp/SlnMerge 
+Merge Visual Studio and Unity solutions.
+
 # Unity UPM
 https://openupm.com/
 
@@ -22,6 +25,11 @@ https://github.com/xoofx/UnityNuGet
 # C#
 
 https://github.com/giacomelli/GeneticSharp
+
+# People
+https://github.com/Cysharp
+https://github.com/neuecc
+
 
 # Random
 
