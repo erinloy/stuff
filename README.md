@@ -14,6 +14,8 @@ https://github.com/DanielEverland/ScriptableObject-Architecture
 
 NuGet for Unity: https://github.com/GlitchEnzo/NuGetForUnity
 
+Extenject DI (succesor to Zenject):  https://github.com/svermeulen/Extenject
+
 https://github.com/Cysharp/SlnMerge 
 Merge Visual Studio and Unity solutions.
 
