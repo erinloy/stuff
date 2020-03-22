@@ -6,6 +6,7 @@ https://github.com/MidLevel/MLAPI.Cryptography
 https://adamramberg.github.io/marvelous/
 https://adamramberg.github.io/unity-atoms/
 https://github.com/DanielEverland/ScriptableObject-Architecture
+
 NuGet for Unity: https://github.com/GlitchEnzo/NuGetForUnity
 
 # Unity UPM
