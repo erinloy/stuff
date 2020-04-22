@@ -39,11 +39,11 @@ https://github.com/xoofx/UnityNuGet
 https://github.com/giacomelli/GeneticSharp
 
 ### Memstate
-In-memory event-sourced ACID-transactional distributed object graph engine for .NET Standard\
+In-memory event-sourced ACID-transactional distributed object graph engine for .NET Standard \
 https://github.com/DevrexLabs/memstate
 
 ### Scientist.NET
-A .NET library for carefully refactoring critical paths. It's a port of GitHub's Ruby Scientist library\
+A .NET library for carefully refactoring critical paths. It's a port of GitHub's Ruby Scientist library \
 https://github.com/scientistproject/Scientist.net
 
 ### ReactiveUI
@@ -54,12 +54,20 @@ Reactive collections based on Rx.Net\
 http://dynamic-data.org \
 https://github.com/reactiveui/DynamicData
 
+### ReactiveProperty
+https://github.com/runceel/ReactiveProperty
+
 ### Cyote
-A set of libraries and tools for building reliable asynchronous software.\
+A set of libraries and tools for building reliable asynchronous software. \
 https://github.com/microsoft/coyote
 
 ### CliWrap: Library for executing and piping shell commands
 https://github.com/Tyrrrz/CliWrap
+
+### Miscreant.NET
+C# implementation of Miscreant: misuse-resistant encryption library with AES-SIV (RFC 5297) and AES-PMAC-SIV support \
+https://miscreant.io \
+https://github.com/miscreant/miscreant.net
 
 ## Git and GitHub
 
