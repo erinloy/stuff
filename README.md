@@ -38,6 +38,10 @@ https://github.com/xoofx/UnityNuGet
 
 https://github.com/giacomelli/GeneticSharp
 
+### .NEXT
+https://github.com/sakno/dotNext \
+https://sakno.github.io/dotNext/
+
 ### Memstate
 In-memory event-sourced ACID-transactional distributed object graph engine for .NET Standard \
 https://github.com/DevrexLabs/memstate
