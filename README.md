@@ -38,20 +38,41 @@ https://github.com/xoofx/UnityNuGet
 
 https://github.com/giacomelli/GeneticSharp
 
+### Memstate
+In-memory event-sourced ACID-transactional distributed object graph engine for .NET Standard\
+https://github.com/DevrexLabs/memstate
+
+### Scientist.NET
+A .NET library for carefully refactoring critical paths. It's a port of GitHub's Ruby Scientist library\
+https://github.com/scientistproject/Scientist.net
+
+### Dynamic Data
+Reactive collections based on Rx.Net\
+http://dynamic-data.org \
+https://github.com/reactiveui/DynamicData
+
+### Cyote
+A set of libraries and tools for building reliable asynchronous software.\
+https://github.com/microsoft/coyote
+
+### CliWrap: Library for executing and piping shell commands
+https://github.com/Tyrrrz/CliWrap
+
+## Git and GitHub
+
+### GitHub Mastering Markdown
+https://guides.github.com/features/mastering-markdown/
+
 ## People
 https://github.com/Cysharp
 
 https://github.com/neuecc
-
 
 ## Random
 
 http://www.ai.sri.com/~okbc/
 
 https://benhouston3d.com/dsp/
-
-### CliWrap: Library for executing and piping shell commands
-https://github.com/Tyrrrz/CliWrap
 
 ### OKBC 
 https://www.researchgate.net/publication/2333835_OKBC_A_Programmatic_Foundation_for_Knowledge_Base_Interoperability
