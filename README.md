@@ -12,14 +12,14 @@ https://adamramberg.github.io/unity-atoms/
 
 https://github.com/DanielEverland/ScriptableObject-Architecture
 
+### Merge Visual Studio and Unity solutions.
+https://github.com/Cysharp/SlnMerge 
+
 ### NuGet for Unity: 
 https://github.com/GlitchEnzo/NuGetForUnity
 
 ### Extenject DI (succesor to Zenject):  
 https://github.com/svermeulen/Extenject
-
-https://github.com/Cysharp/SlnMerge 
-Merge Visual Studio and Unity solutions.
 
 ## Unity UPM
 https://openupm.com/
@@ -46,9 +46,6 @@ https://github.com/neuecc
 
 ## Random
 
-### OKBC 
-https://www.researchgate.net/publication/2333835_OKBC_A_Programmatic_Foundation_for_Knowledge_Base_Interoperability
-
 http://www.ai.sri.com/~okbc/
 
 https://benhouston3d.com/dsp/
@@ -56,3 +53,5 @@ https://benhouston3d.com/dsp/
 ### CliWrap: Library for executing and piping shell commands
 https://github.com/Tyrrrz/CliWrap
 
+### OKBC 
+https://www.researchgate.net/publication/2333835_OKBC_A_Programmatic_Foundation_for_Knowledge_Base_Interoperability
