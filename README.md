@@ -46,6 +46,9 @@ https://github.com/DevrexLabs/memstate
 A .NET library for carefully refactoring critical paths. It's a port of GitHub's Ruby Scientist library\
 https://github.com/scientistproject/Scientist.net
 
+### ReactiveUI
+https://github.com/reactiveui/ReactiveUI
+
 ### Dynamic Data
 Reactive collections based on Rx.Net\
 http://dynamic-data.org \
