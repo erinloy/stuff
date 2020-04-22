@@ -50,7 +50,7 @@ https://github.com/scientistproject/Scientist.net
 https://github.com/reactiveui/ReactiveUI
 
 ### Dynamic Data
-Reactive collections based on Rx.Net\
+Reactive collections based on Rx.Net \
 http://dynamic-data.org \
 https://github.com/reactiveui/DynamicData
 
@@ -58,16 +58,20 @@ https://github.com/reactiveui/DynamicData
 https://github.com/runceel/ReactiveProperty
 
 ### Cyote
-A set of libraries and tools for building reliable asynchronous software. \
+A set of libraries and tools for building *reliable asynchronous software*. \
 https://github.com/microsoft/coyote
 
 ### CliWrap: Library for executing and piping shell commands
 https://github.com/Tyrrrz/CliWrap
 
 ### Miscreant.NET
-C# implementation of Miscreant: misuse-resistant encryption library with AES-SIV (RFC 5297) and AES-PMAC-SIV support \
+C# implementation of Miscreant: *misuse-resistant encryption library* with AES-SIV (RFC 5297) and AES-PMAC-SIV support \
 https://miscreant.io \
 https://github.com/miscreant/miscreant.net
+
+### Noise.NET
+.NET Standard 1.3 implementation of the *Noise Protocol Framework* (revision 33 of the spec) \
+https://github.com/Metalnem/noise
 
 ## Git and GitHub
 
