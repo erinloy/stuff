@@ -103,3 +103,7 @@ https://benhouston3d.com/dsp/
 
 ### OKBC 
 https://www.researchgate.net/publication/2333835_OKBC_A_Programmatic_Foundation_for_Knowledge_Base_Interoperability
+
+### Uncategorized
+
+https://github.com/rebus-org/Rebus
