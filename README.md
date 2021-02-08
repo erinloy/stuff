@@ -15,6 +15,9 @@ https://adamramberg.github.io/unity-atoms/
 
 https://github.com/DanielEverland/ScriptableObject-Architecture
 
+Merge an existing VS solution with a Unity-generated solution on the fly.  Useful for Unity projects that incorporate non-Unity projects.
+https://github.com/Cysharp/SlnMerge
+
 ### Merge Visual Studio and Unity solutions.
 https://github.com/Cysharp/SlnMerge 
 
