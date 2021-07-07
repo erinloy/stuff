@@ -1,6 +1,10 @@
 # Stuff
 Some stuff that I found.
 
+
+##Awesome DotNet Core
+https://github.com/awesomedotnetcore
+
 ## Remote Differential Compression for C#
 https://github.com/OctopusDeploy/Octodiff
 
