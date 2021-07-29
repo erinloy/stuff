@@ -114,3 +114,7 @@ https://www.researchgate.net/publication/2333835_OKBC_A_Programmatic_Foundation_
 ### Uncategorized
 
 https://github.com/rebus-org/Rebus
+
+C# GitHub Repository Checklist
+
+https://gist.github.com/ZacharyPatten/08532b31ef5efc7593b32326b498023a
