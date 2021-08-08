@@ -119,12 +119,9 @@ C# GitHub Repository Checklist
 
 https://gist.github.com/ZacharyPatten/08532b31ef5efc7593b32326b498023a
 
-
-
-
-
-
-
+Other Stuff
 
 https://github.com/dotnet/Nerdbank.GitVersioning
+
+https://github.com/louthy/language-ext
 
