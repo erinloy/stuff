@@ -128,3 +128,7 @@ https://github.com/louthy/language-ext
 https://github.com/louthy/echo-process
 
 https://github.com/byme8/ZeroIoC
+
+https://archive.codeplex.com/?p=essencesharp
+
+https://github.com/EssenceSharp/cSharp
