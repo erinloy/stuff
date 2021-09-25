@@ -132,3 +132,35 @@ https://github.com/byme8/ZeroIoC
 https://archive.codeplex.com/?p=essencesharp
 
 https://github.com/EssenceSharp/cSharp
+
+
+
+
+https://reaqtive.net/ (https://github.com/reaqtive/reaqtor)
+
+https://reaqtive.net/blog/2021/05/reaqtors-open-source-journey
+
+https://github.com/dotnet/command-line-api
+
+https://medium.com/@wishmithasmendis/from-rdbms-to-key-value-store-data-modeling-techniques-a2874906bc46
+
+https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques/
+
+https://tli2.github.io/assets/pdf/dpr-sigmod2021.pdf
+
+https://microsoft.github.io/FASTER/
+
+https://microsoft.github.io/FASTER/docs/fasterkv-basics/
+
+https://www.microsoft.com/en-us/research/project/simplestore/
+
+https://arxiv.org/abs/2006.03206
+
+
+
+https://github.com/EgorBo/SimdJsonSharp
+
+https://github.com/xoofx/CppAst.NET
+
+
+
