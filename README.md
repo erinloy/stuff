@@ -190,7 +190,7 @@ https://mogest.medium.com/why-your-huge-tech-team-isnt-delivering-3851be27712c
 
 https://github.com/mcintyre321/MetaLinq
 
-
+https://endjin.com/what-we-do/open-source/
 
 
 
