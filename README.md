@@ -188,7 +188,7 @@ https://github.com/dadhi/DryIoc
 
 https://mogest.medium.com/why-your-huge-tech-team-isnt-delivering-3851be27712c
 
-
+https://github.com/mcintyre321/MetaLinq
 
 
 
