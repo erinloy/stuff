@@ -162,5 +162,37 @@ https://github.com/EgorBo/SimdJsonSharp
 
 https://github.com/xoofx/CppAst.NET
 
+https://github.com/dazinator/Dazinator.Extensions.DependencyInjection/blob/develop/src/DependencyInjection.ChildContainers/README.md
+
+https://github.com/reaqtive/reaqtor
+
+https://reaqtive.net/talks/how-reaqtor-combines-reactivity-with-reliable-data-processing
+
+https://reaqtive.net/talks/on-dotnet-live-scalable-event-processing-with-reaqtor
+
+https://en.wikipedia.org/wiki/Elo_rating_system
+
+https://www.stat.berkeley.edu/~aldous/Papers/me150.pdf
+
+https://math.gatech.edu/sites/default/files/images/statistical-ranking.pdf
+
+https://www.codeproject.com/Articles/7349/The-Essence-Pattern-in-C
+
+https://github.com/microsoft/AMBROSIA
+
+https://github.com/Microsoft/Trill
+
+https://github.com/Dasync/Dasync
+
+https://github.com/dadhi/DryIoc
+
+https://mogest.medium.com/why-your-huge-tech-team-isnt-delivering-3851be27712c
+
+
+
+
+
+
+
 
 
