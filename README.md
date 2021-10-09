@@ -192,6 +192,11 @@ https://github.com/mcintyre321/MetaLinq
 
 https://endjin.com/what-we-do/open-source/
 
+https://github.com/Cysharp/ProcessX
+
+https://github.com/neuecc/MessagePack-CSharp
+
+
 
 
 
