@@ -198,6 +198,10 @@ https://github.com/neuecc/MessagePack-CSharp
 
 
 
+https://github.com/useaible/RyskampLearningMachine
+
+http://useaible.com/
+
 
 
 
