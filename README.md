@@ -203,5 +203,7 @@ https://github.com/useaible/RyskampLearningMachine
 http://useaible.com/
 
 
+Blazor Web Worker: https://github.com/Tewr/BlazorWorker
+
 
 
