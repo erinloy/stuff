@@ -212,3 +212,8 @@ https://github.com/TomaszRewak/C-sharp-console-gui-framework
 
 https://github.com/developer82/FluentColorConsole
 
+https://github.com/migueldeicaza/gui.cs
+
+
+https://github.com/reactiveui/pharmacist (Generate Reactive Observables from Events)
+
