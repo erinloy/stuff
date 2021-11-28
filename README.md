@@ -203,7 +203,12 @@ https://github.com/useaible/RyskampLearningMachine
 http://useaible.com/
 
 
-Blazor Web Worker: https://github.com/Tewr/BlazorWorker
+Blazor Web Worker: 
+https://github.com/Tewr/BlazorWorker
 
+Console Stuff
 
+https://github.com/TomaszRewak/C-sharp-console-gui-framework
+
+https://github.com/developer82/FluentColorConsole
 
