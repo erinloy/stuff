@@ -217,3 +217,7 @@ https://github.com/migueldeicaza/gui.cs
 
 https://github.com/reactiveui/pharmacist (Generate Reactive Observables from Events)
 
+https://github.com/codeyu/nanoid-net (Alternative to UUID)
+
+
+
