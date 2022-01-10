@@ -219,5 +219,7 @@ https://github.com/reactiveui/pharmacist (Generate Reactive Observables from Eve
 
 https://github.com/codeyu/nanoid-net (Alternative to UUID)
 
+https://github.com/thomhurst/EnumerableAsyncProcessor
+
 
 
