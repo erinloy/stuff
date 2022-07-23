@@ -231,10 +231,11 @@ https://github.com/ocornut/imgui
 
 https://github.com/AngleSharp/AngleSharp
 
-CompilerExplorer
+### CompilerExplorer
 
   https://godbolt.org/
   
   https://github.com/compiler-explorer/compiler-explorer
   
-  
+### Private fork of public repo
+https://gist.github.com/0xjac/85097472043b697ab57ba1b1c7530274
