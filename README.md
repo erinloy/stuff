@@ -239,3 +239,5 @@ https://github.com/AngleSharp/AngleSharp
   
 ### Private fork of public repo
 https://gist.github.com/0xjac/85097472043b697ab57ba1b1c7530274
+
+https://github.com/Azure/azure-functions-openapi-extension
