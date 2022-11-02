@@ -243,3 +243,16 @@ https://gist.github.com/0xjac/85097472043b697ab57ba1b1c7530274
 https://github.com/Azure/azure-functions-openapi-extension
 
 Optimal Reciprocal Collision Avoidance for C#: https://github.com/snape/RVO2-CS
+
+
+https://www.dnfprojects.com/
+
+https://github.com/dotnet/orleans
+
+https://github.com/OrleansContrib/
+
+https://github.com/OrleansContrib/Awesome-Orleans
+
+https://trool.io/
+
+https://www.stride3d.net/download/
