@@ -259,3 +259,10 @@ https://www.stride3d.net/download/
 
 https://flattened.net/ - native C# compiler
 
+Measurement system: https://www.codeproject.com/Articles/5306824/Taking-Your-Brain-to-Another-Dimension-A-Csharp-li
+
+Blazor switching between server and wasm at runtime: https://itnext.io/blazor-switching-server-and-webassembly-at-runtime-d65c25fd4d8
+
+
+
+
