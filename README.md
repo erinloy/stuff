@@ -263,6 +263,10 @@ Measurement system: https://www.codeproject.com/Articles/5306824/Taking-Your-Bra
 
 Blazor switching between server and wasm at runtime: https://itnext.io/blazor-switching-server-and-webassembly-at-runtime-d65c25fd4d8
 
+C# NLP command parser: https://github.com/takenet/textc-csharp
+
+
+
 
 
 
