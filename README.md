@@ -269,4 +269,4 @@ https://github.com/benjamin-hodgson/Sawmill - Sawmill : Simple tools for working
 
 https://github.com/benjamin-hodgson/Pidgin - Pidgin : A lightweight, fast, and flexible parsing library for C#.
 
-
+https://github.com/jonsequitur/dotnet-repl - A polyglot REPL built on .NET Interactive
