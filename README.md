@@ -270,3 +270,6 @@ https://github.com/benjamin-hodgson/Sawmill - Sawmill : Simple tools for working
 https://github.com/benjamin-hodgson/Pidgin - Pidgin : A lightweight, fast, and flexible parsing library for C#.
 
 https://github.com/jonsequitur/dotnet-repl - A polyglot REPL built on .NET Interactive
+
+https://www.codeproject.com/Articles/168662/Time-Period-Library-for-NET - Time Period Library for .NET
+
