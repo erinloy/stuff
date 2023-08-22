@@ -273,3 +273,6 @@ https://github.com/jonsequitur/dotnet-repl - A polyglot REPL built on .NET Inter
 
 https://www.codeproject.com/Articles/168662/Time-Period-Library-for-NET - Time Period Library for .NET
 
+https://github.com/Sergio0694/PolySharp - PloySharp: Pollyfills for C#
+
+
