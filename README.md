@@ -275,4 +275,6 @@ https://www.codeproject.com/Articles/168662/Time-Period-Library-for-NET - Time P
 
 https://github.com/Sergio0694/PolySharp - PloySharp: Pollyfills for C#
 
+https://github.com/dotnetcore/Natasha - Natasha: dynamic compilation
+
 
