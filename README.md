@@ -277,4 +277,9 @@ https://github.com/Sergio0694/PolySharp - PloySharp: Pollyfills for C#
 
 https://github.com/dotnetcore/Natasha - Natasha: dynamic compilation
 
+Graphing  
+- https://github.com/image-charts/c-sharp  
+- https://plotly.com/csharp/bar-charts/  
+- https://github.com/plotly/Plotly.NET  
+- https://github.com/varon/GLGraph  
 
