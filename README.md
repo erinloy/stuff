@@ -281,5 +281,8 @@ Graphing
 - https://github.com/image-charts/c-sharp  
 - https://plotly.com/csharp/bar-charts/  
 - https://github.com/plotly/Plotly.NET  
-- https://github.com/varon/GLGraph  
+- https://github.com/varon/GLGraph
+- (paid) https://www.scichart.com/
+
+
 
