@@ -283,6 +283,15 @@ Graphing
 - https://github.com/plotly/Plotly.NET  
 - https://github.com/varon/GLGraph
 - (paid) https://www.scichart.com/
+- https://livecharts.dev/, https://github.com/beto-rodriguez/LiveCharts2
+
+ChatGPT Stuff...
+- https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web
+- https://github.com/aaamoon/copilot-gpt4-service
+
+  
+
+
 
 
 
