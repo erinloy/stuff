@@ -292,6 +292,9 @@ ChatGPT Stuff...
 https://github.com/sqids/sqids-dotnet
 
 
+https://github.com/friflo/Friflo.Json.Fliox
+
+
 
 
 
