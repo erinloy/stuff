@@ -6,7 +6,8 @@ Some stuff that I found.
 https://github.com/awesomedotnetcore
 
 ## Remote Differential Compression for C#
-https://github.com/OctopusDeploy/Octodiff
+https://github.com/OctopusDeploy/Octodiff  
+https://github.com/mimetis/dotmim.sync
 
 ## Unity
 https://github.com/insthync/awesome-unity3d
