@@ -299,6 +299,11 @@ https://github.com/friflo/Friflo.Json.Fliox
 https://www.codeproject.com/Articles/248440/Universal-Type-Converter
 
 
+https://github.com/FlatlinerDOA/Rope
+
+
+
+
 
 
 
