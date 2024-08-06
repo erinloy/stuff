@@ -299,7 +299,9 @@ https://github.com/friflo/Friflo.Json.Fliox
 https://www.codeproject.com/Articles/248440/Universal-Type-Converter
 
 
-https://github.com/FlatlinerDOA/Rope
+https://github.com/FlatlinerDOA/Rope  
+
+https://www.codeproject.com/Articles/5383493/Powerful-Alternative-to-NET-TPL  
 
 
 
