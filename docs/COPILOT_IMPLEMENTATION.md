@@ -16,6 +16,8 @@ This document outlines the steps taken to implement GitHub Copilot workflows in 
    - `.github/copilot/config.yml`: Main configuration file
    - `.github/copilot/chat-config.yml`: Chat-specific settings
    - `.github/copilot/cli-config.yml`: CLI-specific settings
+   - `.github/copilot/environment-variables.json`: Environment variables for Copilot agent
+   - `.github/copilot/commands.json`: Custom commands for Copilot agent
    - `.github/copilot-instructions.md`: Repository-specific instructions for Copilot
 
 3. Created GitHub Actions workflows:
@@ -34,6 +36,7 @@ This document outlines the steps taken to implement GitHub Copilot workflows in 
 - GitHub Copilot for Pull Requests: https://docs.github.com/en/copilot/github-copilot-for-pull-requests/about-github-copilot-for-pull-requests
 - GitHub Copilot for Issues: https://docs.github.com/en/copilot/github-copilot-for-issues/about-github-copilot-for-issues
 - GitHub Copilot CLI: https://docs.github.com/en/copilot/github-copilot-in-the-cli/about-github-copilot-in-the-cli
+- GitHub Copilot Coding Agent: https://docs.github.com/en/copilot/customizing-copilot/customizing-the-development-environment-for-copilot-coding-agent
 
 ## Configuration Details
 
@@ -52,6 +55,14 @@ Configures GitHub Copilot for CLI, enabling command suggestions and explanations
 ### Repository Instructions (copilot-instructions.md)
 Documentation: https://docs.github.com/en/copilot/customizing-copilot/adding-repository-custom-instructions-for-github-copilot
 Provides custom instructions for GitHub Copilot when working with this repository.
+
+### Environment Variables (environment-variables.json)
+Documentation: https://docs.github.com/en/copilot/customizing-copilot/customizing-the-development-environment-for-copilot-coding-agent
+Defines environment variables that will be available to the Copilot agent when running tasks in the repository.
+
+### Custom Commands (commands.json)
+Documentation: https://docs.github.com/en/copilot/customizing-copilot/customizing-the-development-environment-for-copilot-coding-agent
+Defines custom commands that the Copilot agent can use when working with the repository.
 
 ## Workflow Details
 
