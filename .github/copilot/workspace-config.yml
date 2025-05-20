@@ -1,0 +1,8 @@
+workspace:
+  enabled: true
+  autoRefresh: true
+  accessibility:
+    screenReader: auto
+  codeAnalysis:
+    enabled: true
+    suggestions: true

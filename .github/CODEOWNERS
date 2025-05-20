@@ -1,0 +1,10 @@
+# GitHub Copilot Configuration Owners
+# These owners will be requested for review when someone opens a pull request that modifies Copilot configurations.
+
+# Copilot Configuration Files
+.github/copilot/*              @erinloy
+.github/workflows/copilot-*    @erinloy
+
+# Copilot Documentation
+COPILOT.md                     @erinloy
+docs/COPILOT_IMPLEMENTATION.md @erinloy

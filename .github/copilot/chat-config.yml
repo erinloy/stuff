@@ -1,0 +1,4 @@
+chatEnabled: true
+chatIncludeRepoContext: true
+contextLimit: 10
+expandCodeBlocks: true

@@ -1,0 +1,23 @@
+name: Copilot for Issues
+
+on:
+  issues:
+    types: [opened, edited]
+  issue_comment:
+    types: [created, edited]
+  
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  copilot-for-issues:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        
+      - name: Copilot for Issues
+        uses: github/copilot-for-issues-action@v1
+        with:
+          version: latest
