@@ -1,31 +1,16 @@
-# GitHub Copilot Repository Instructions
-# Documentation: https://docs.github.com/en/copilot/customizing-copilot/adding-repository-custom-instructions-for-github-copilot
+###
+Repo: https://github.com/erinloy/stuff
+Short Description: Some stuff that I found.
+Long Description: A curated list of interesting, useful, and sometimes obscure open-source projects, tools, and resources within the .NET, C#, Azure, and larger Microsoft ecosystem. This list focuses on highlighting both popular and specialized solutions that advanced developers might find valuable.
 
-# This file provides custom instructions for GitHub Copilot when working with this repository.
-# It helps Copilot understand the context, coding standards, and preferences for this project.
-
-## Repository Context
-This repository contains various GitHub Copilot configurations and workflows.
-
-## Coding Standards
-- Follow existing code style and formatting
-- Use meaningful variable and function names
-- Include documentation for public APIs and interfaces
-- Write unit tests for new features
-
-## Architecture
-The repository has the following structure:
-- `.github/copilot/`: Contains Copilot configuration files
-- `.github/workflows/`: Contains GitHub Actions workflows for Copilot features
-- `docs/`: Contains documentation for Copilot implementations
-
-## Common Tasks
-- Updating Copilot configurations
-- Adding new Copilot features
-- Documenting Copilot implementation details
-
-## Preferences
-- Prefer explicit code over implicit 
-- Favor readability over cleverness
-- Document complex algorithms
-- Follow security best practices
+Loop:
+Explore the subject matter of the repository using all the tools at your disposal.
+Emphasis on finding unusual, obscure, specialized, and similar open source.
+Keep a detailed exploration log in docs/EXPLORATION.md.
+Organize and Curate the list.
+Keep a detailed reasoning log in docs/REASONING.md.
+Improve all aspects of the list using your best judgement.
+Maintain theme of an "Awesome"-like repository of interesting and useful projects and tools within .NET, C#, Azure, and larger Microsoft ecosystem.
+Keep detailed a change log in docs/CHANGELOG.md.
+Repeat.
+###

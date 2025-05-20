@@ -1,9 +1,0 @@
-{
-  "REPO_NAME": "stuff",
-  "PROJECT_ROOT": "${workspaceFolder}",
-  "DOCS_DIR": "${workspaceFolder}/docs",
-  "NODE_ENV": "development",
-  "EDITOR": "code",
-  "LOG_LEVEL": "info",
-  "DEFAULT_BRANCH": "master"
-}

@@ -1,7 +1,0 @@
-# GitHub Copilot Chat configuration
-# Documentation: https://docs.github.com/en/copilot/github-copilot-chat/about-github-copilot-chat
-
-chatEnabled: true
-chatIncludeRepoContext: true
-contextLimit: 10
-expandCodeBlocks: true
