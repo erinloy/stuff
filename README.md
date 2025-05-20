@@ -51,6 +51,7 @@ A curated list of interesting, useful, and sometimes obscure open-source project
 - [SimdJsonSharp](https://github.com/EgorBo/SimdJsonSharp) - C# port of the SimdJson high-performance JSON parser.
 - [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) - Powerful .NET library for benchmarking.
 - [MemoryPack](https://github.com/Cysharp/MemoryPack) - Zero-allocation binary serializer for C#.
+- [Quickenshtein](https://github.com/Turnerj/Quickenshtein) - High-performance Levenshtein distance implementation with SIMD and threading support.
 
 ## C# Libraries & Tools
 
