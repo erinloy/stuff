@@ -1,0 +1,26 @@
+# GitHub Copilot for Issues workflow
+# Documentation: https://docs.github.com/en/copilot/github-copilot-for-issues/about-github-copilot-for-issues
+
+name: Copilot for Issues
+
+on:
+  issues:
+    types: [opened, edited]
+  issue_comment:
+    types: [created, edited]
+  
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  copilot-for-issues:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        
+      - name: Copilot for Issues
+        uses: github/copilot-for-issues-action@v1
+        with:
+          version: latest

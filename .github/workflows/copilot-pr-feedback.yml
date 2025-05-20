@@ -1,0 +1,33 @@
+# GitHub Copilot for Pull Requests workflow (currently disabled)
+# Documentation: https://docs.github.com/en/copilot/github-copilot-for-pull-requests/about-github-copilot-for-pull-requests
+
+# NOTE: This workflow is currently disabled because the action github/copilot-feedback-action@v1 is not available
+# When the correct action becomes available, this file can be uncommented and updated
+
+#name: GitHub Copilot PR Feedback
+#
+#on:
+#  pull_request:
+#    types: [opened, synchronize]
+#    
+#permissions:
+#  contents: read
+#  pull-requests: write
+#  issues: write
+#
+#jobs:
+#  copilot-feedback:
+#    runs-on: ubuntu-latest
+#    steps:
+#      - name: Checkout code
+#        uses: actions/checkout@v4
+#        with:
+#          fetch-depth: 0
+#          
+#      # - name: GitHub Copilot PR Feedback
+#      #   uses: github/copilot-feedback-action@v1
+#      #   with:
+#      #     version: latest
+#
+# GitHub Copilot for PRs may be a native GitHub feature that doesn't require a specific action.
+# Check GitHub documentation for the latest information on implementing GitHub Copilot for Pull Requests.

@@ -213,6 +213,8 @@ A curated list of interesting, useful, and sometimes obscure open-source project
 - [Semantic Kernel](https://github.com/microsoft/semantic-kernel) - Integration of LLMs with C# and Python.
 - [PrivateGPT.NET](https://github.com/DefTruth/PrivateGPT.NET) - Privately run LLMs on documents using only C# and .NET.
 - [LLamaSharp](https://github.com/SciSharp/LLamaSharp) - .NET binding for llama.cpp.
+- [GitHub Copilot Chat](https://docs.github.com/en/copilot/github-copilot-chat/about-github-copilot-chat) - AI chat assistant that integrates directly with your development environment.
+- [GitHub Copilot Workspace](https://docs.github.com/en/codespaces/developing-in-a-codespace/github-copilot-in-a-codespace) - AI-enhanced development environment that combines coding and natural language.
 
 ## Code Analysis & Compilation
 
@@ -258,6 +260,8 @@ A curated list of interesting, useful, and sometimes obscure open-source project
 - [Private fork of public repo guide](https://gist.github.com/0xjac/85097472043b697ab57ba1b1c7530274) - How to maintain a private fork of a public repository.
 - [git-tfs](https://github.com/git-tfs/git-tfs) - Two-way bridge between TFS and Git.
 - [GitVersion](https://github.com/GitTools/GitVersion) - Generate a SemVer version number based on your Git repository.
+- [GitHub Copilot](https://github.com/features/copilot) - AI pair programmer that offers autocomplete-style suggestions. [Documentation](COPILOT.md)
+- [Copilot for CLI](https://docs.github.com/en/copilot/github-copilot-in-the-cli/about-github-copilot-in-the-cli) - AI assistance for shell commands directly in your terminal.
 
 ### CI/CD & Deployment
 - [Cake](https://github.com/cake-build/cake) - Cross-platform build automation system with a C# DSL.
@@ -265,6 +269,8 @@ A curated list of interesting, useful, and sometimes obscure open-source project
 - [Octopus Deploy](https://github.com/OctopusDeploy) - DevOps tool to simplify complex deployments.
 - [GitPitch](https://github.com/gitpitch/gitpitch) - Create and present slide decks from git repos.
 - [Publish to GitHub](https://github.com/Tyrrrz/PublishToGitHub) - GitHub Action to publish changes with automated commits.
+- [GitHub Copilot for PRs](https://docs.github.com/en/copilot/github-copilot-for-pull-requests/about-github-copilot-for-pull-requests) - AI-powered assistance for pull request descriptions and reviews.
+- [GitHub Copilot for Issues](https://docs.github.com/en/copilot/github-copilot-in-issues/about-github-copilot-in-issues) - AI assistance for creating and managing GitHub issues.
 
 ## Package Managers
 
