@@ -210,9 +210,20 @@ A curated list of interesting, useful, and sometimes obscure open-source project
 
 ## Utilities & Helpers
 
+### File & System Utilities
 - [ISO Recorder](http://isorecorder.alexfeinman.com/) - Convert CD/DVD to ISO file.
 - [DNF Projects](https://www.dnfprojects.com/) - Direct .NET Framework projects.
+- [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer) - Advanced Task Manager alternative from Sysinternals.
+- [Autoruns](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns) - Find and manage auto-starting applications.
+- [WizTree](https://wiztreefree.com/) - Fastest disk space analyzer for Windows.
+
+### Development Utilities
 - [Trool.io](https://trool.io/) - Rule engine for .NET.
+- [YamlDotNet](https://github.com/aaubry/YamlDotNet) - .NET library for YAML.
+- [Sharp Compress](https://github.com/adamhathcock/sharpcompress) - .NET library for manipulating archives.
+- [Humanizer](https://github.com/Humanizr/Humanizer) - Manipulation and display of strings, enums, dates, times, timespans, numbers and quantities.
+- [SharpZipLib](https://github.com/icsharpcode/SharpZipLib) - Compression library for .NET.
+- [SmartFormat](https://github.com/axuno/SmartFormat) - String formatting library with advanced features.
 
 ## Data Science & Algorithms
 
@@ -227,9 +238,19 @@ A curated list of interesting, useful, and sometimes obscure open-source project
 
 ## DevOps & Version Control
 
+### Git & GitHub Tools
 - [GitHub Mastering Markdown](https://guides.github.com/features/mastering-markdown/) - Guide to writing markdown for GitHub.
 - [C# GitHub Repository Checklist](https://gist.github.com/ZacharyPatten/08532b31ef5efc7593b32326b498023a) - Checklist for setting up C# repositories on GitHub.
 - [Private fork of public repo guide](https://gist.github.com/0xjac/85097472043b697ab57ba1b1c7530274) - How to maintain a private fork of a public repository.
+- [git-tfs](https://github.com/git-tfs/git-tfs) - Two-way bridge between TFS and Git.
+- [GitVersion](https://github.com/GitTools/GitVersion) - Generate a SemVer version number based on your Git repository.
+
+### CI/CD & Deployment
+- [Cake](https://github.com/cake-build/cake) - Cross-platform build automation system with a C# DSL.
+- [NUKE](https://github.com/nuke-build/nuke) - Build automation system for C# with a type-safe and IDE-friendly approach.
+- [Octopus Deploy](https://github.com/OctopusDeploy) - DevOps tool to simplify complex deployments.
+- [GitPitch](https://github.com/gitpitch/gitpitch) - Create and present slide decks from git repos.
+- [Publish to GitHub](https://github.com/Tyrrrz/PublishToGitHub) - GitHub Action to publish changes with automated commits.
 
 ## Package Managers
 
@@ -249,7 +270,21 @@ A curated list of interesting, useful, and sometimes obscure open-source project
 
 ## Learning Resources
 
+### Articles & Blog Posts
 - ["Why Your Huge Tech Team Isn't Delivering"](https://mogest.medium.com/why-your-huge-tech-team-isnt-delivering-3851be27712c) - Article on team productivity issues.
+- ["Performance Best Practices in C#"](https://github.com/adamsitnik/awesome-dot-net-performance) - Curated list of resources about .NET performance.
+- ["Async/Await Best Practices"](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md) - Guidance for working with async/await in .NET.
+
+### Books & Documentation
+- [C# Language Design Notes](https://github.com/dotnet/csharplang) - Official C# language design notes and proposals.
+- ["Writing High-Performance .NET Code"](https://www.writinghighperf.net/) - Book by Ben Watson about performance optimization.
+- ["Pro .NET Memory Management"](https://prodotnetmemory.com/) - Book by Konrad Kokosa about .NET memory management.
+
+### Courses & Tutorials
+- [.NET Core Tutorials](https://dotnetcoretutorials.com/) - Practical tutorials for learning .NET Core.
+- [Blazor University](https://blazor-university.com/) - Free Blazor training and resources.
+- [Microservices with .NET](https://dotnet.microsoft.com/learn/aspnet/microservice-tutorial) - Official Microsoft tutorial on microservices.
+- [Learn Razor Pages](https://www.learnrazorpages.com/) - Free ASP.NET Core tutorials.
 
 ## Contributing
 
