@@ -10,7 +10,6 @@ This repository has been configured with various GitHub Copilot features to enha
 - **GitHub Copilot for PRs**: Automated pull request summaries and reviews
 - **GitHub Copilot for Issues**: AI assistance for GitHub issues
 - **GitHub Copilot CLI**: Command-line assistance for shell commands
-- **GitHub Copilot Workspace**: Enhanced AI collaboration in your workspace
 
 ## How to Use
 
@@ -42,10 +41,6 @@ GitHub Copilot is available in various editors:
 - Install GitHub CLI: `brew install gh` (macOS) or see [installation guide](https://github.com/cli/cli#installation)
 - Install Copilot extension: `gh extension install github/gh-copilot`
 - Use with `gh copilot` or enable suggestions with `gh copilot alias`
-
-### GitHub Copilot Workspace
-- Available in GitHub Codespaces and in supported editors
-- Look for the Copilot Workspace icon in your editor's sidebar
 
 ## Configuration
 
