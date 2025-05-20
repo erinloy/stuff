@@ -66,6 +66,7 @@ A curated list of interesting, useful, and sometimes obscure open-source project
 - [Pidgin](https://github.com/benjamin-hodgson/Pidgin) - A lightweight, fast, and flexible parsing library for C#.
 - [Gherkin.NET](https://github.com/cucumber/gherkin-dotnet) - .NET parser for the Gherkin language.
 - [GParse](https://github.com/GGG-KILLER/GParse) - Modular parsing library for C#.
+- [libpe](https://www.codeproject.com/Articles/5205732/libpe-PE32-PE32plus-Binaries-Viewer-Library) - Library for viewing and analyzing Windows PE32/PE32+ binary files.
 
 ### Development Tools
 - [dotnet-repl](https://github.com/jonsequitur/dotnet-repl) - A polyglot REPL built on .NET Interactive.
