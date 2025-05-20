@@ -52,35 +52,60 @@ A curated list of interesting, useful, and sometimes obscure open-source project
 
 ## C# Libraries & Tools
 
+### Functional Programming
 - [language-ext](https://github.com/louthy/language-ext) - C# functional language extensions that provide a base set of functional programming features.
+- [Optional](https://github.com/nlkl/Optional) - A robust option type for C#.
+- [CSharpFunctionalExtensions](https://github.com/vkhorikov/CSharpFunctionalExtensions) - Functional extensions for C#.
+- [Lemonad](https://github.com/inputfalken/Lemonad) - Functional programming library for C#.
+
+### Parsing & Code Analysis
 - [CppAst.NET](https://github.com/xoofx/CppAst.NET) - A .NET library for parsing C/C++ code into a C# object model.
 - [Sawmill](https://github.com/benjamin-hodgson/Sawmill) - Tools for working with immutable trees, based on Uniform Boilerplate and List Processing.
 - [Pidgin](https://github.com/benjamin-hodgson/Pidgin) - A lightweight, fast, and flexible parsing library for C#.
+- [Gherkin.NET](https://github.com/cucumber/gherkin-dotnet) - .NET parser for the Gherkin language.
+- [GParse](https://github.com/GGG-KILLER/GParse) - Modular parsing library for C#.
+
+### Development Tools
 - [dotnet-repl](https://github.com/jonsequitur/dotnet-repl) - A polyglot REPL built on .NET Interactive.
 - [Time Period Library](https://www.codeproject.com/Articles/168662/Time-Period-Library-for-NET) - A .NET library for working with time periods.
 - [Universal Type Converter](https://www.codeproject.com/Articles/248440/Universal-Type-Converter) - A utility class to convert between data types.
-- [MessagePack-CSharp](https://github.com/neuecc/MessagePack-CSharp) - Extremely fast MessagePack serializer for C#.
 - [Scientist.NET](https://github.com/scientistproject/Scientist.net) - A .NET library for carefully refactoring critical paths, ported from GitHub's Ruby library.
 - [Coyote](https://github.com/microsoft/coyote) - Libraries and tools for building reliable asynchronous software.
 - [CliWrap](https://github.com/Tyrrrz/CliWrap) - Library for executing and piping shell commands.
+
+### Serialization & Data Handling
+- [MessagePack-CSharp](https://github.com/neuecc/MessagePack-CSharp) - Extremely fast MessagePack serializer for C#.
 - [Sqids](https://github.com/sqids/sqids-dotnet) - Generate YouTube-like IDs from numbers.
 - [Friflo.Json.Fliox](https://github.com/friflo/Friflo.Json.Fliox) - High-performance JSON serializer.
 - [Rope](https://github.com/FlatlinerDOA/Rope) - Rope (immutable string) implementation for C#.
 - [EnumerableAsyncProcessor](https://github.com/thomhurst/EnumerableAsyncProcessor) - Process collections asynchronously.
 - [Morton Encoding](https://github.com/tedd/Tedd.MortonEncoding) - Implementation of Morton encoding (Z-order curve) in C#.
 - [nanoid-net](https://github.com/codeyu/nanoid-net) - Alternative to UUID, tiny, secure, URL-friendly unique strings.
+- [ObjectMapper](https://github.com/geekyeggo/dotnet-object-mapper) - Declarative object-to-object mapping for .NET.
 
 ## Data & Storage
 
+### High-Performance Storage
 - [FASTER](https://microsoft.github.io/FASTER/) - Fast, thread-safe key-value store and cache from Microsoft Research. [Basic concepts](https://microsoft.github.io/FASTER/docs/fasterkv-basics/)
 - [SimpleStore](https://www.microsoft.com/en-us/research/project/simplestore/) - A research storage system for client-cloud applications.
 - [Memstate](https://github.com/DevrexLabs/memstate) - In-memory event-sourced ACID-transactional distributed object graph engine for .NET.
+- [Akka.Persistence](https://github.com/akkadotnet/akka.net/tree/dev/src/core/Akka.Persistence) - Event-sourcing abstraction for Akka.NET actors.
+- [Marten](https://github.com/JasperFx/marten) - .NET transactional document DB and event store on PostgreSQL.
+
+### Messaging & Event Processing
 - [Rebus](https://github.com/rebus-org/Rebus) - Simple and lean service bus implementation for .NET.
 - [AMBROSIA](https://github.com/microsoft/AMBROSIA) - A platform for distributed applications that provides virtually perfect fault tolerance and seamless upgrades.
 - [Trill](https://github.com/Microsoft/Trill) - A high-performance single-node in-memory streaming analytics engine.
+- [MassTransit](https://github.com/MassTransit/MassTransit) - Distributed application framework for .NET.
+- [NServiceBus](https://github.com/Particular/NServiceBus) - The most popular service bus for .NET.
+
+### Data Integration & Synchronization
 - [GraphQL.RepoDb](https://github.com/cajuncoding/GraphQL.RepoDb) - GraphQL integration for RepoDb ORM.
 - [dotmim.sync](https://github.com/mimetis/dotmim.sync) - A .NET cross-platform data sync library.
 - [Octodiff](https://github.com/OctopusDeploy/Octodiff) - Implementation of remote differential compression for efficient file transfer.
+- [DbUp](https://github.com/DbUp/DbUp) - .NET library that helps you to deploy changes to SQL Server databases.
+- [GenericRepository](https://github.com/SharpRepository/SharpRepository) - Generic Repository with rich LINQ filter capabilities.
+- [Nisti.Data](https://github.com/miklund/Nisti.Data) - Lightweight database access layer for .NET.
 
 ## Reactive Programming
 
@@ -157,13 +182,23 @@ A curated list of interesting, useful, and sometimes obscure open-source project
 
 ## AI & Machine Learning
 
+### Neural Networks & Machine Learning
 - [RyskampLearningMachine](https://github.com/useaible/RyskampLearningMachine) - Neural network machine learning library for .NET. [Website](http://useaible.com/)
 - [GeneticSharp](https://github.com/giacomelli/GeneticSharp) - Genetic algorithm library for .NET Core and .NET Framework.
 - [Textc](https://github.com/takenet/textc-csharp) - C# NLP command parser.
+- [Accord.NET](https://github.com/accord-net/framework) - Machine learning, computer vision, statistics and general scientific computing for .NET.
+- [ML.NET](https://github.com/dotnet/machinelearning) - Cross-platform machine learning framework for .NET.
+- [TorchSharp](https://github.com/dotnet/TorchSharp) - .NET bindings for PyTorch.
+- [BrightWire](https://github.com/jdermody/brightwire) - GPU/CPU machine learning framework for .NET.
+- [TensorFlow.NET](https://github.com/SciSharp/TensorFlow.NET) - .NET bindings for TensorFlow.
 
-### ChatGPT & LLM Tools
+### LLM Integration & Tools
 - [ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - Cross-platform ChatGPT UI using Next.js.
 - [copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service) - Convert GitHub Copilot requests to GPT-4 requests.
+- [OpenAI-DotNet](https://github.com/RageAgainstThePixel/OpenAI-DotNet) - Unofficial C# client for OpenAI API.
+- [Semantic Kernel](https://github.com/microsoft/semantic-kernel) - Integration of LLMs with C# and Python.
+- [PrivateGPT.NET](https://github.com/DefTruth/PrivateGPT.NET) - Privately run LLMs on documents using only C# and .NET.
+- [LLamaSharp](https://github.com/SciSharp/LLamaSharp) - .NET binding for llama.cpp.
 
 ## Code Analysis & Compilation
 
