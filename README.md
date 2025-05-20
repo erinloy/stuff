@@ -216,7 +216,6 @@ A curated list of interesting, useful, and sometimes obscure open-source project
 - [PrivateGPT.NET](https://github.com/DefTruth/PrivateGPT.NET) - Privately run LLMs on documents using only C# and .NET.
 - [LLamaSharp](https://github.com/SciSharp/LLamaSharp) - .NET binding for llama.cpp.
 - [GitHub Copilot Chat](https://docs.github.com/en/copilot/github-copilot-chat/about-github-copilot-chat) - AI chat assistant that integrates directly with your development environment.
-- [GitHub Copilot Workspace](https://docs.github.com/en/codespaces/developing-in-a-codespace/github-copilot-in-a-codespace) - AI-enhanced development environment that combines coding and natural language.
 
 ## Code Analysis & Compilation
 
