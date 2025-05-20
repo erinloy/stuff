@@ -55,7 +55,7 @@ Contains detailed settings for fine-tuning Copilot's behavior.
 ## Workflow Details
 
 ### PR Feedback Workflow
-Automatically provides feedback on pull requests, including summaries and code reviews.
+The PR feedback workflow is currently commented out as the required action (`github/copilot-feedback-action@v1`) appears to be unavailable. GitHub Copilot for Pull Requests may be a native GitHub feature that doesn't require a specific action. Administrators should consult the latest GitHub documentation for proper implementation.
 
 ### Issues Workflow
 Provides AI assistance for GitHub issues, helping with summarization and suggestions.

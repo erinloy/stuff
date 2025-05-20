@@ -24,8 +24,9 @@ GitHub Copilot is available in various editors:
 - Use `/` commands for specific requests (e.g., `/explain`, `/tests`, `/fix`)
 
 ### GitHub Copilot for PRs
-- Automatic PR summaries and reviews will be generated when you create or update a pull request
+- GitHub Copilot for PRs offers automated PR summaries and reviews when enabled
 - Look for the "GitHub Copilot" tab in your pull requests
+- Note: This feature is currently being implemented and may require administrator setup
 
 ### GitHub Copilot for Issues
 - AI suggestions will appear when creating or commenting on issues
