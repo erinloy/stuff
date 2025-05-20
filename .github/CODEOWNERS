@@ -1,4 +1,6 @@
 # GitHub Copilot Configuration Owners
+# Documentation: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
 # These owners will be requested for review when someone opens a pull request that modifies Copilot configurations.
 
 # Copilot Configuration Files

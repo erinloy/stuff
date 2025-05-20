@@ -1,3 +1,6 @@
+# GitHub Copilot for Pull Requests workflow (currently disabled)
+# Documentation: https://docs.github.com/en/copilot/github-copilot-for-pull-requests/about-github-copilot-for-pull-requests
+
 # NOTE: This workflow is currently disabled because the action github/copilot-feedback-action@v1 is not available
 # When the correct action becomes available, this file can be uncommented and updated
 

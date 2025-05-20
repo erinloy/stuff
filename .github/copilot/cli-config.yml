@@ -1,3 +1,6 @@
+# GitHub Copilot CLI configuration
+# Documentation: https://docs.github.com/en/copilot/github-copilot-in-the-cli/about-github-copilot-in-the-cli
+
 cli:
   enablement: true
   suggestions: true
