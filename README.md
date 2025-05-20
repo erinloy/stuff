@@ -1,4 +1,4 @@
-# Awesome Microsoft Ecosystem
+# Awesome Microsoft Ecosystem [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: CC0](https://img.shields.io/badge/License-CC0-lightgrey.svg)](LICENSE)
 
 A curated list of interesting, useful, and sometimes obscure open-source projects, tools, and resources within the .NET, C#, Azure, and larger Microsoft ecosystem. This list focuses on highlighting both popular and specialized solutions that advanced developers might find valuable.
 
@@ -185,7 +185,26 @@ A curated list of interesting, useful, and sometimes obscure open-source project
 
 - ["Why Your Huge Tech Team Isn't Delivering"](https://mogest.medium.com/why-your-huge-tech-team-isnt-delivering-3851be27712c) - Article on team productivity issues.
 
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request to add new resources or improve existing ones.
+
+### Guidelines for Contributing
+- Ensure the resource is related to the Microsoft ecosystem (.NET, C#, Azure, etc.)
+- Provide a brief description of what the resource is or does
+- Favor open-source projects, especially those that are unusual, specialized, or obscure
+- Check that the link is working and points to the appropriate resource
+- Follow the established format for consistency
+
 ## Changelog
+
+### 2024-05-21: Curation and Enhancement
+- Added "Contributing" section with guidelines
+- Improved organization with more subcategories
+- Added new specialized and obscure projects
+- Enhanced descriptions for better clarity
+- Improved cross-referencing between sections
+- Standardized formatting across all entries
 
 ### 2024-05-14: Major Reorganization
 - Complete restructuring of the list into logical categories
