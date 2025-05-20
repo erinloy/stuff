@@ -37,5 +37,6 @@ The following components were removed as they could not be referenced to officia
 
 - `.github/copilot/workspace-config.yml`
 - `.github/copilot/advanced-config.yml`
+- "GitHub Copilot Workspace" feature
 
-These files contained custom configurations that are not currently documented in the official GitHub Copilot documentation.
+These files or features contained custom configurations or references that are not currently documented in the official GitHub Copilot documentation.
