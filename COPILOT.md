@@ -10,6 +10,7 @@ This repository has been configured with various GitHub Copilot features to enha
 - **GitHub Copilot for PRs**: Automated pull request summaries and reviews
 - **GitHub Copilot for Issues**: AI assistance for GitHub issues
 - **GitHub Copilot CLI**: Command-line assistance for shell commands
+- **GitHub Copilot Coding Agent**: AI coding agent with customized environment
 
 ## How to Use
 
@@ -42,12 +43,20 @@ GitHub Copilot is available in various editors:
 - Install Copilot extension: `gh extension install github/gh-copilot`
 - Use with `gh copilot` or enable suggestions with `gh copilot alias`
 
+### GitHub Copilot Coding Agent
+# Documentation: https://docs.github.com/en/copilot/customizing-copilot/customizing-the-development-environment-for-copilot-coding-agent
+- Use the Copilot coding agent for advanced coding tasks
+- The agent has access to custom commands specific to this repository
+- Environment variables are pre-configured for the agent's development environment
+
 ## Configuration
 
 This repository uses the following configuration files for Copilot features:
 - `.github/copilot/config.yml`: Main configuration file (https://docs.github.com/en/copilot/overview-of-github-copilot)
 - `.github/copilot/chat-config.yml`: Chat-specific settings (https://docs.github.com/en/copilot/github-copilot-chat/about-github-copilot-chat)
 - `.github/copilot/cli-config.yml`: CLI-specific settings (https://docs.github.com/en/copilot/github-copilot-in-the-cli/about-github-copilot-in-the-cli)
+- `.github/copilot/environment-variables.json`: Environment variables for Copilot agent (https://docs.github.com/en/copilot/customizing-copilot/customizing-the-development-environment-for-copilot-coding-agent)
+- `.github/copilot/commands.json`: Custom commands for Copilot agent (https://docs.github.com/en/copilot/customizing-copilot/customizing-the-development-environment-for-copilot-coding-agent)
 - `.github/workflows/copilot-pr-feedback.yml`: Workflow for PR feedback (https://docs.github.com/en/copilot/github-copilot-for-pull-requests/about-github-copilot-for-pull-requests)
 - `.github/workflows/copilot-for-issues.yml`: Workflow for issues support (https://docs.github.com/en/copilot/github-copilot-for-issues/about-github-copilot-for-issues)
 - `.github/copilot-instructions.md`: Repository-specific instructions for Copilot (https://docs.github.com/en/copilot/customizing-copilot/adding-repository-custom-instructions-for-github-copilot)
