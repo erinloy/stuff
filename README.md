@@ -9,6 +9,7 @@ A curated list of interesting, useful, and sometimes obscure open-source project
 - [Data & Storage](#data--storage)
 - [Reactive Programming](#reactive-programming)
 - [Web Development](#web-development)
+- [Azure & Cloud Resources](#azure--cloud-resources)
 - [Unity & Game Development](#unity--game-development)
 - [Cloud & Distributed Systems](#cloud--distributed-systems)
 - [UI & Visualization](#ui--visualization)
@@ -21,19 +22,33 @@ A curated list of interesting, useful, and sometimes obscure open-source project
 - [Package Managers](#package-managers)
 - [Notable People & Organizations](#notable-people--organizations)
 - [Learning Resources](#learning-resources)
+- [Contributing](#contributing)
+- [Changelog](#changelog)
+- [License](#license)
 
 ## .NET Core & Framework
 
+### Core Libraries & Extensions
 - [Awesome .NET Core](https://github.com/awesomedotnetcore) - A collection of awesome .NET core libraries, tools, frameworks and software.
 - [Nerdbank.GitVersioning](https://github.com/dotnet/Nerdbank.GitVersioning) - Stamp your assemblies with semver 2.0 compliant git commit specific version information.
 - [Command Line API](https://github.com/dotnet/command-line-api) - Command line parsing, invocation, and rendering of terminal output.
 - [.NEXT](https://github.com/sakno/dotNext) - A set of powerful high-performance extensions for .NET. [Documentation](https://sakno.github.io/dotNext/)
 - [PolySharp](https://github.com/Sergio0694/PolySharp) - Provides polyfills for newer C# language features to older target frameworks.
+
+### Runtime & Compilation
 - [Natasha](https://github.com/dotnetcore/Natasha) - Dynamic compilation framework for C#.
+- [CoreRT](https://github.com/dotnet/corert) - .NET Core runtime optimized for AOT compilation scenarios.
+- [NativeAOT](https://github.com/dotnet/runtimelab/tree/feature/NativeAOT) - Compiles .NET applications to native code.
+
+### Dependency Injection & IoC
 - [ZeroIoC](https://github.com/byme8/ZeroIoC) - A dependency injection container with zero runtime overhead.
 - [DryIoc](https://github.com/dadhi/DryIoc) - Fast, small, full-featured IoC container for .NET.
 - [Dazinator.Extensions.DependencyInjection](https://github.com/dazinator/Dazinator.Extensions.DependencyInjection) - Child containers for Microsoft.Extensions.DependencyInjection.
+
+### Performance
 - [SimdJsonSharp](https://github.com/EgorBo/SimdJsonSharp) - C# port of the SimdJson high-performance JSON parser.
+- [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) - Powerful .NET library for benchmarking.
+- [MemoryPack](https://github.com/Cysharp/MemoryPack) - Zero-allocation binary serializer for C#.
 
 ## C# Libraries & Tools
 
@@ -83,6 +98,22 @@ A curated list of interesting, useful, and sometimes obscure open-source project
 - [Blazor Switching](https://itnext.io/blazor-switching-server-and-webassembly-at-runtime-d65c25fd4d8) - Switch between Blazor server and WebAssembly at runtime.
 - [AngleSharp](https://github.com/AngleSharp/AngleSharp) - The ultimate angle brackets parser library for HTML, SVG, MathML, and CSS.
 - [Azure Functions OpenAPI Extension](https://github.com/Azure/azure-functions-openapi-extension) - OpenAPI extensions for Azure Functions.
+
+## Azure & Cloud Resources
+
+### Azure SDKs & Tools
+- [Azure SDK for .NET](https://github.com/Azure/azure-sdk-for-net) - Official Azure SDK for .NET development.
+- [Azure CLI](https://github.com/Azure/azure-cli) - Command-line interface for Azure.
+- [Azurite](https://github.com/Azure/Azurite) - Azure Storage Emulator for local development.
+- [Azure Functions .NET Worker](https://github.com/Azure/azure-functions-dotnet-worker) - .NET Worker implementation for Azure Functions.
+- [Azure Dev CLI](https://github.com/Azure/azure-dev) - CLI tool for developer productivity on Azure.
+
+### Azure Integration & Patterns
+- [Azure Functions OpenAPI](https://github.com/Azure/azure-functions-openapi-extension) - OpenAPI extensions for Azure Functions.
+- [Durable Functions ETL](https://github.com/microsoft/durabletask-netherite) - Netherite backend for Durable Task Framework.
+- [Azure Service Bus Explorer](https://github.com/paolosalvatori/ServiceBusExplorer) - Windows application to manage Azure Service Bus resources.
+- [CAF Terraform](https://github.com/aztfmod/terraform-azurerm-caf) - Cloud Adoption Framework for Terraform.
+- [Azure Key Vault Explorer](https://github.com/microsoft/AzureKeyVaultExplorer) - GUI tool for managing Azure Key Vault secrets.
 
 ## Unity & Game Development
 
