@@ -12,5 +12,6 @@ Keep a detailed reasoning log in docs/REASONING.md.
 Improve all aspects of the list using your best judgement.
 Maintain theme of an "Awesome"-like repository of interesting and useful projects and tools within .NET, C#, Azure, and larger Microsoft ecosystem.
 Keep detailed a change log in docs/CHANGELOG.md.
+Curate and update the file docs/LLM.md with any information that you would like to pass on to the next LLM working with the repo.
 Repeat.
 ###
