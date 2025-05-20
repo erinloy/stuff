@@ -2,6 +2,8 @@
 
 A curated list of interesting, useful, and sometimes obscure open-source projects, tools, and resources within the .NET, C#, Azure, and larger Microsoft ecosystem. This list focuses on highlighting both popular and specialized solutions that advanced developers might find valuable.
 
+> 🔎 Looking for a specific type of tool? Use the Table of Contents below to navigate to the relevant section!
+
 ## Table of Contents
 
 - [.NET Core & Framework](#net-core--framework)
@@ -155,11 +157,23 @@ A curated list of interesting, useful, and sometimes obscure open-source project
 
 ## Cloud & Distributed Systems
 
-- [Orleans](https://github.com/dotnet/orleans) - Cross-platform framework for building distributed applications. [Awesome Orleans](https://github.com/OrleansContrib/Awesome-Orleans)
+### Distributed Computing Frameworks
+- [Orleans](https://github.com/dotnet/orleans) - Cross-platform framework for building distributed applications. See also: [Awesome Orleans](https://github.com/OrleansContrib/Awesome-Orleans).
 - [Dasync](https://github.com/Dasync/Dasync) - Distributed programming framework for .NET.
+- [Akka.NET](https://github.com/akkadotnet/akka.net) - .NET port of the popular Java/Scala actor model framework. Related: [Akka.Persistence](#data--storage) for event sourcing.
+- [Dapr](https://github.com/dapr/dapr) - Portable, event-driven runtime to build distributed applications. Works with [Azure](#azure--cloud-resources).
+- [Service Fabric](https://github.com/microsoft/service-fabric) - Microsoft's distributed systems platform for packaging, deploying, and managing microservices.
+
+### Cryptography & Security
 - [Miscreant.NET](https://github.com/miscreant/miscreant.net) - C# implementation of Miscreant misuse-resistant encryption library with AES-SIV and AES-PMAC-SIV. [Website](https://miscreant.io)
 - [Noise.NET](https://github.com/Metalnem/noise) - .NET Standard implementation of the Noise Protocol Framework.
+- [BCrypt.NET](https://github.com/BcryptNet/bcrypt.net) - Modern and safe cryptographic library for .NET.
+- [NSec](https://github.com/ektrah/nsec) - Modern cryptographic library for .NET based on libsodium.
+- [HashLib](https://github.com/brandondahler/HashLib) - Collection of cryptographic hashing algorithms for .NET.
+
+### Shell & Process Management
 - [ProcessX](https://github.com/Cysharp/ProcessX) - Improved Process and shell scripting library for .NET.
+- [Spectre.Console](https://github.com/spectreconsole/spectre.console) - Library for creating beautiful console applications. See also: [Console Applications](#console-applications).
 
 ## UI & Visualization
 
@@ -239,7 +253,7 @@ A curated list of interesting, useful, and sometimes obscure open-source project
 ## DevOps & Version Control
 
 ### Git & GitHub Tools
-- [GitHub Mastering Markdown](https://guides.github.com/features/mastering-markdown/) - Guide to writing markdown for GitHub.
+- [GitHub Markdown Guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) - Official guide to writing markdown for GitHub.
 - [C# GitHub Repository Checklist](https://gist.github.com/ZacharyPatten/08532b31ef5efc7593b32326b498023a) - Checklist for setting up C# repositories on GitHub.
 - [Private fork of public repo guide](https://gist.github.com/0xjac/85097472043b697ab57ba1b1c7530274) - How to maintain a private fork of a public repository.
 - [git-tfs](https://github.com/git-tfs/git-tfs) - Two-way bridge between TFS and Git.
@@ -286,26 +300,42 @@ A curated list of interesting, useful, and sometimes obscure open-source project
 - [Microservices with .NET](https://dotnet.microsoft.com/learn/aspnet/microservice-tutorial) - Official Microsoft tutorial on microservices.
 - [Learn Razor Pages](https://www.learnrazorpages.com/) - Free ASP.NET Core tutorials.
 
+> 💡 **Know a great resource that's not listed?** See the [Contributing](#contributing) section to add your suggestions!
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request to add new resources or improve existing ones.
 
 ### Guidelines for Contributing
-- Ensure the resource is related to the Microsoft ecosystem (.NET, C#, Azure, etc.)
-- Provide a brief description of what the resource is or does
-- Favor open-source projects, especially those that are unusual, specialized, or obscure
-- Check that the link is working and points to the appropriate resource
-- Follow the established format for consistency
+- Ensure the resource is related to the Microsoft ecosystem (.NET, C#, Azure, etc.).
+- Prioritize open-source projects, especially those that are unusual, specialized, or obscure.
+- Provide a brief description (one sentence) of what the resource is or does.
+- Format entries as: `- [Name](URL) - Description.` (note the period at the end).
+- Check that links are working and point to the appropriate resource.
+- Place the entry in the appropriate section, or suggest a new section if needed.
+- For projects with multiple resources, consider adding: `[Website](URL)` or `[Documentation](URL)` after the description.
+- Keep entries alphabetized within each section/subsection when possible.
+
+### How to Contribute
+1. Fork the repository
+2. Create a new branch for your changes
+3. Add your contributions following the guidelines above
+4. Submit a pull request with a clear description of your additions/changes
 
 ## Changelog
 
 ### 2024-05-21: Curation and Enhancement
-- Added "Contributing" section with guidelines
-- Improved organization with more subcategories
-- Added new specialized and obscure projects
-- Enhanced descriptions for better clarity
-- Improved cross-referencing between sections
+- Added repository badges for better visibility
+- Created detailed "Contributing" section with comprehensive guidelines
+- Improved organization with logical subcategories across all sections
+- Added dedicated "Azure & Cloud Resources" section with 10+ new resources
+- Enhanced C# Libraries & Tools section with functional programming resources
+- Added 30+ new specialized and obscure projects across all categories
+- Enhanced descriptions for better clarity and consistency
+- Improved cross-referencing between related sections
+- Added note encouraging contributions
 - Standardized formatting across all entries
+- Fixed outdated links and improved navigation
 
 ### 2024-05-14: Major Reorganization
 - Complete restructuring of the list into logical categories
