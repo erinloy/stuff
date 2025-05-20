@@ -1,6 +1,6 @@
 # Awesome Microsoft Ecosystem
 
-A curated list of interesting, useful, and sometimes obscure open-source projects, tools, and resources within the .NET, C#, Azure, and larger Microsoft ecosystem. This list focuses on highlighting both popular and specialized solutions that developers might find valuable.
+A curated list of interesting, useful, and sometimes obscure open-source projects, tools, and resources within the .NET, C#, Azure, and larger Microsoft ecosystem. This list focuses on highlighting both popular and specialized solutions that advanced developers might find valuable.
 
 ## Table of Contents
 
