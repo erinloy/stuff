@@ -313,44 +313,11 @@ A curated list of interesting, useful, and sometimes obscure open-source project
 
 Contributions are welcome! Please feel free to submit a Pull Request to add new resources or improve existing ones.
 
-### Guidelines for Contributing
-- Ensure the resource is related to the Microsoft ecosystem (.NET, C#, Azure, etc.).
-- Prioritize open-source projects, especially those that are unusual, specialized, or obscure.
-- Provide a brief description (one sentence) of what the resource is or does.
-- Format entries as: `- [Name](URL) - Description.` (note the period at the end).
-- Check that links are working and point to the appropriate resource.
-- Place the entry in the appropriate section, or suggest a new section if needed.
-- For projects with multiple resources, consider adding: `[Website](URL)` or `[Documentation](URL)` after the description.
-- Keep entries alphabetized within each section/subsection when possible.
-
-### How to Contribute
-1. Fork the repository
-2. Create a new branch for your changes
-3. Add your contributions following the guidelines above
-4. Submit a pull request with a clear description of your additions/changes
+See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines and instructions on how to contribute.
 
 ## Changelog
 
-### 2024-05-21: Curation and Enhancement
-- Added repository badges for better visibility
-- Created detailed "Contributing" section with comprehensive guidelines
-- Improved organization with logical subcategories across all sections
-- Added dedicated "Azure & Cloud Resources" section with 10+ new resources
-- Enhanced C# Libraries & Tools section with functional programming resources
-- Added 30+ new specialized and obscure projects across all categories
-- Enhanced descriptions for better clarity and consistency
-- Improved cross-referencing between related sections
-- Added note encouraging contributions
-- Standardized formatting across all entries
-- Fixed outdated links and improved navigation
-
-### 2024-05-14: Major Reorganization
-- Complete restructuring of the list into logical categories
-- Added table of contents for easier navigation
-- Added descriptions for all resources
-- Standardized formatting
-- Grouped related resources together
-- Added this changelog section
+See [CHANGELOG.md](CHANGELOG.md) for a detailed history of changes to this repository.
 
 ---
 
