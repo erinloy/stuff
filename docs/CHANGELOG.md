@@ -1,5 +1,13 @@
 # Changelog
 
+## 2024-05-21: Loop Implementation and Additional Resources
+- Created documentation for exploration and reasoning processes in `docs/EXPLORATION.md` and `docs/REASONING.md`
+- Added new "Specialized Data Structures" section with C5, TrieNet, and Wintellect.PowerCollections
+- Enhanced Performance section with LinqAF and Spreads
+- Extended Azure tools with Azure Functions Host and YARP
+- Re-alphabetized several sections for consistency
+- Maintained curation focus on specialized and obscure .NET and Microsoft ecosystem tools
+
 ## 2024-05-21: Curation and Enhancement
 - Added repository badges for better visibility
 - Created detailed "Contributing" section with comprehensive guidelines

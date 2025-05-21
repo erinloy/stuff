@@ -48,10 +48,12 @@ A curated list of interesting, useful, and sometimes obscure open-source project
 - [Dazinator.Extensions.DependencyInjection](https://github.com/dazinator/Dazinator.Extensions.DependencyInjection) - Child containers for Microsoft.Extensions.DependencyInjection.
 
 ### Performance
-- [SimdJsonSharp](https://github.com/EgorBo/SimdJsonSharp) - C# port of the SimdJson high-performance JSON parser.
 - [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) - Powerful .NET library for benchmarking.
+- [LinqAF](https://github.com/kevin-montrose/LinqAF) - A LINQ implementation that uses array-fusion and doesn't allocate.
 - [MemoryPack](https://github.com/Cysharp/MemoryPack) - Zero-allocation binary serializer for C#.
 - [Quickenshtein](https://github.com/Turnerj/Quickenshtein) - High-performance Levenshtein distance implementation with SIMD and threading support.
+- [SimdJsonSharp](https://github.com/EgorBo/SimdJsonSharp) - C# port of the SimdJson high-performance JSON parser.
+- [Spreads](https://github.com/Spreads/Spreads) - Series and Panels for Real-time and Exploratory Analysis of Data Streams.
 
 ## C# Libraries & Tools
 
@@ -68,6 +70,11 @@ A curated list of interesting, useful, and sometimes obscure open-source project
 - [Gherkin.NET](https://github.com/cucumber/gherkin-dotnet) - .NET parser for the Gherkin language.
 - [GParse](https://github.com/GGG-KILLER/GParse) - Modular parsing library for C#.
 - [libpe](https://www.codeproject.com/Articles/5205732/libpe-PE32-PE32plus-Binaries-Viewer-Library) - Library for viewing and analyzing Windows PE32/PE32+ binary files.
+
+### Specialized Data Structures
+- [C5](https://github.com/sestoft/C5) - C5 Generic Collection Library for C#/.NET.
+- [TrieNet](https://github.com/gmamaladze/trienet) - Trie and Patricia Trie (Radix Tree) implementation.
+- [Wintellect.PowerCollections](https://github.com/Wintellect/PowerCollections) - Powerful implementations of common data structures.
 
 ### Development Tools
 - [dotnet-repl](https://github.com/jonsequitur/dotnet-repl) - A polyglot REPL built on .NET Interactive.
@@ -131,11 +138,13 @@ A curated list of interesting, useful, and sometimes obscure open-source project
 ## Azure & Cloud Resources
 
 ### Azure SDKs & Tools
-- [Azure SDK for .NET](https://github.com/Azure/azure-sdk-for-net) - Official Azure SDK for .NET development.
 - [Azure CLI](https://github.com/Azure/azure-cli) - Command-line interface for Azure.
-- [Azurite](https://github.com/Azure/Azurite) - Azure Storage Emulator for local development.
-- [Azure Functions .NET Worker](https://github.com/Azure/azure-functions-dotnet-worker) - .NET Worker implementation for Azure Functions.
 - [Azure Dev CLI](https://github.com/Azure/azure-dev) - CLI tool for developer productivity on Azure.
+- [Azure Functions .NET Worker](https://github.com/Azure/azure-functions-dotnet-worker) - .NET Worker implementation for Azure Functions.
+- [Azure Functions Host](https://github.com/Azure/azure-functions-host) - The host/runtime for Azure Functions.
+- [Azure SDK for .NET](https://github.com/Azure/azure-sdk-for-net) - Official Azure SDK for .NET development.
+- [Azurite](https://github.com/Azure/Azurite) - Azure Storage Emulator for local development.
+- [YARP](https://github.com/microsoft/reverse-proxy) - A toolkit for developing high-performance HTTP reverse proxy applications.
 
 ### Azure Integration & Patterns
 - [Azure Functions OpenAPI](https://github.com/Azure/azure-functions-openapi-extension) - OpenAPI extensions for Azure Functions.
