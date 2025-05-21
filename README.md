@@ -83,6 +83,9 @@ A curated list of interesting, useful, and sometimes obscure open-source project
 - [Scientist.NET](https://github.com/scientistproject/Scientist.net) - A .NET library for carefully refactoring critical paths, ported from GitHub's Ruby library.
 - [Coyote](https://github.com/microsoft/coyote) - Libraries and tools for building reliable asynchronous software.
 - [CliWrap](https://github.com/Tyrrrz/CliWrap) - Library for executing and piping shell commands.
+- [Roslyn.CodeDom](https://github.com/aelij/RoslynCodeDom) - Provides a Roslyn-based implementation of CodeDom.
+- [Scripty](https://github.com/daveaglick/Scripty) - Tool to use Roslyn-powered C# scripts for code generation.
+- [dotnet-outdated](https://github.com/dotnet-outdated/dotnet-outdated) - A .NET Core global tool to update NuGet packages in a project.
 
 ### Serialization & Data Handling
 - [MessagePack-CSharp](https://github.com/neuecc/MessagePack-CSharp) - Extremely fast MessagePack serializer for C#.
@@ -181,6 +184,9 @@ A curated list of interesting, useful, and sometimes obscure open-source project
 - [BCrypt.NET](https://github.com/BcryptNet/bcrypt.net) - Modern and safe cryptographic library for .NET.
 - [NSec](https://github.com/ektrah/nsec) - Modern cryptographic library for .NET based on libsodium.
 - [HashLib](https://github.com/brandondahler/HashLib) - Collection of cryptographic hashing algorithms for .NET.
+- [Geralt](https://github.com/skrypets/geralt) - High-performance cryptography library for .NET.
+- [CryptoNet](https://github.com/maythamfahmi/CryptoNet) - Easy-to-use cryptographic operations for .NET.
+- [BCrypt.NET-Next](https://github.com/BcryptNet/bcrypt.net) - BCrypt implementation for .NET.
 
 ### Shell & Process Management
 - [ProcessX](https://github.com/Cysharp/ProcessX) - Improved Process and shell scripting library for .NET.
@@ -250,6 +256,11 @@ A curated list of interesting, useful, and sometimes obscure open-source project
 - [Humanizer](https://github.com/Humanizr/Humanizer) - Manipulation and display of strings, enums, dates, times, timespans, numbers and quantities.
 - [SharpZipLib](https://github.com/icsharpcode/SharpZipLib) - Compression library for .NET.
 - [SmartFormat](https://github.com/axuno/SmartFormat) - String formatting library with advanced features.
+
+### Security Analysis Tools
+- [SecurityCodeScan](https://github.com/security-code-scan/security-code-scan) - Vulnerability patterns detector for C# and VB.NET.
+- [OwaspHeaders.Core](https://github.com/GaProgMan/OwaspHeaders.Core) - Middleware for adding OWASP recommended HTTP headers.
+- [Audit.NET](https://github.com/thepirat000/Audit.NET) - An extensible framework to audit operations in .NET.
 
 ## Data Science & Algorithms
 
