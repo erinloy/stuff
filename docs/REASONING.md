@@ -14,6 +14,26 @@ The following principles guide the curation process:
 
 ## Addition Reasoning
 
+### May 24, 2024
+
+#### New Focus: Developer Productivity Tools
+
+**Reasoning**: Developer productivity tools can significantly enhance the development workflow, saving time and reducing errors. Many specialized tools exist within the Microsoft ecosystem that provide unique capabilities beyond what is commonly known or used. Adding these to the list helps developers discover tools that can improve their development experience.
+
+**Additions**:
+- **Roslyn.CodeDom** - Added as it provides a modern approach to CodeDom using Roslyn, which is valuable for code generation scenarios while maintaining compatibility with existing CodeDom consumers.
+- **Scripty** - Included because it leverages C# scripts for code generation, allowing developers to use familiar C# syntax and the full power of Roslyn for compile-time code generation.
+- **Forge** - Added as it offers a unique templating approach to code generation in C#, providing more flexibility than traditional T4 templates.
+
+#### New Focus: Security and Cryptography Libraries
+
+**Reasoning**: Security is a critical concern for all applications, and specialized security libraries can help developers implement proper security measures more easily. The .NET ecosystem has several specialized security and cryptography libraries that go beyond the standard libraries provided by Microsoft.
+
+**Additions**:
+- **Geralt** - Added because it provides high-performance cryptography operations with a modern API design, offering better performance than standard .NET cryptography libraries for certain scenarios.
+- **CryptoNet** - Included as it simplifies common cryptographic operations with an easy-to-use API, making security implementations more accessible to developers.
+- **BCrypt.NET-Next** - Added as it is a well-maintained implementation of the BCrypt password hashing algorithm, which is critical for secure password storage.
+
 ### May 21, 2024
 
 #### New Section: Specialized Data Structures
