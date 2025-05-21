@@ -8,6 +8,7 @@ Explore the subject matter of the repository using all the tools at your disposa
 Emphasis on finding unusual, obscure, specialized, and similar open source.
 Keep a detailed exploration log in docs/EXPLORATION.md.
 Organize and Curate the list.
+Audit the list for quality.  Verify links and facts.
 Keep a detailed reasoning log in docs/REASONING.md.
 Improve all aspects of the list using your best judgement.
 Maintain theme of an "Awesome"-like repository of interesting and useful projects and tools within .NET, C#, Azure, and larger Microsoft ecosystem.
